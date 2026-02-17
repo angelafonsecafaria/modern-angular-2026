@@ -20,7 +20,7 @@
 
 ---
 
-## 🎥 Preview
+<!-- ## 🎥 Preview -->
 
 <!--
 Uncomment when you add your demo GIF:
@@ -30,7 +30,7 @@ Uncomment when you add your demo GIF:
 </p>
 -->
 
----
+<!-- --- -->
 
 ## 🌎 Project Vision
 
