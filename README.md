@@ -1,6 +1,3 @@
-# MODERN ANGULAR 2026
-
-```md
 <a name="top"></a>
 
 <div align="center">
@@ -25,15 +22,17 @@
 
 # 🎥 Preview
 
-<!-- <p align="center">
+<!--
+Uncomment when you add your demo GIF:
+
+<p align="center">
   <img src="./docs/preview.gif" alt="Project Preview" width="800"/>
 </p>
-
-> ⚠️ Replace `./docs/preview.gif` with your real demo GIF. -->
+-->
 
 ---
 
-# 🌎 Live Vision
+# 🌎 Project Vision
 
 This project demonstrates:
 
@@ -50,11 +49,11 @@ This project demonstrates:
 
 This repository demonstrates:
 
-✔ Architectural thinking  
-✔ Modern Angular ecosystem mastery  
-✔ Code organization discipline  
-✔ Enterprise mindset  
-✔ Testing awareness  
+✔ Architectural thinking
+✔ Modern Angular ecosystem mastery
+✔ Code organization discipline
+✔ Enterprise mindset
+✔ Testing awareness
 ✔ Long-term maintainability
 
 This is not just a demo — it is a **foundation for real-world enterprise applications**.
@@ -62,16 +61,15 @@ This is not just a demo — it is a **foundation for real-world enterprise appli
 ---
 
 # 🏗 Architecture Philosophy
+
 ```
-
 src/
-├── core/ → Singleton services, guards, interceptors
-├── shared/ → Reusable UI components
-├── features/ → Feature-based modular structure
-├── layout/ → App shell & layout components
+├── core/        → Singleton services, guards, interceptors
+├── shared/      → Reusable UI components
+├── features/    → Feature-based modular structure
+├── layout/      → App shell & layout components
 └── app.config.ts
-
-````
+```
 
 ✔ Feature-first structure
 ✔ Separation of concerns
@@ -81,13 +79,13 @@ src/
 
 # ⚙️ Tech Stack
 
-| Technology | Purpose |
-|------------|----------|
-| Angular 21 | Core framework |
-| TypeScript 5.9 | Strong typing |
-| RxJS 7.8 | Reactive programming |
-| Zone.js | Change detection |
-| Karma + Jasmine | Testing |
+| Technology      | Purpose              |
+| --------------- | -------------------- |
+| Angular 21      | Core framework       |
+| TypeScript 5.9  | Strong typing        |
+| RxJS 7.8        | Reactive programming |
+| Zone.js         | Change detection     |
+| Karma + Jasmine | Testing              |
 
 ---
 
@@ -95,33 +93,23 @@ src/
 
 ## Install
 
-```bash
 npm install
-````
 
 or clean install:
 
-```bash
 npm ci
-```
 
 ## Run
 
-```bash
 npm start
-```
 
 ## Build
 
-```bash
 npm run build
-```
 
 ## Test
 
-```bash
 npm test
-```
 
 ---
 
@@ -145,16 +133,6 @@ npm test
 - Future-ready Angular patterns
 
 ---
-
-<!-- # 🔥 Future Improvements
-
-- CI/CD pipeline (GitHub Actions)
-- E2E tests
-- Docker support
-- Performance benchmarking
-- Micro-frontend readiness -->
-
-<!-- --- -->
 
 # 🇧🇷 Versão em Português
 
@@ -188,6 +166,3 @@ If you like this project, give it a star ⭐
 ---
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-```
-
----
