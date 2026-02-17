@@ -20,7 +20,7 @@
 
 ---
 
-# 🎥 Preview
+## 🎥 Preview
 
 <!--
 Uncomment when you add your demo GIF:
@@ -32,7 +32,7 @@ Uncomment when you add your demo GIF:
 
 ---
 
-# 🌎 Project Vision
+## 🌎 Project Vision
 
 This project demonstrates:
 
@@ -45,7 +45,7 @@ This project demonstrates:
 
 ---
 
-# 🧠 Why This Project Matters (For Recruiters)
+## 🧠 Why This Project Matters
 
 This repository demonstrates:
 
@@ -56,11 +56,11 @@ This repository demonstrates:
 ✔ Testing awareness
 ✔ Long-term maintainability
 
-This is not just a demo — it is a **foundation for real-world enterprise applications**.
+This is not just a demo: it is a **foundation for real-world enterprise applications**.
 
 ---
 
-# 🏗 Architecture Philosophy
+## 🏗 Architecture Philosophy
 
 ```
 src/
@@ -77,7 +77,7 @@ src/
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 | Technology      | Purpose              |
 | --------------- | -------------------- |
@@ -89,9 +89,9 @@ src/
 
 ---
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
-## Install
+### Install
 
 npm install
 
@@ -99,21 +99,21 @@ or clean install:
 
 npm ci
 
-## Run
+### Run
 
 npm start
 
-## Build
+### Build
 
 npm run build
 
-## Test
+### Test
 
 npm test
 
 ---
 
-# 📦 Scripts
+## 📦 Scripts
 
 | Script | Description      |
 | ------ | ---------------- |
@@ -124,7 +124,7 @@ npm test
 
 ---
 
-# 📈 Code Quality Strategy
+## 📈 Code Quality Strategy
 
 - Conventional Commits
 - Modular architecture
@@ -134,9 +134,9 @@ npm test
 
 ---
 
-# 🇧🇷 Versão em Português
+## 🇧🇷 Versão em Português
 
-## 🎯 Objetivo
+### 🎯 Objetivo
 
 Este projeto demonstra domínio avançado de Angular 21, arquitetura escalável e boas práticas modernas.
 
@@ -150,7 +150,7 @@ Ele foi construído com mentalidade enterprise, focando em:
 
 ---
 
-# 👩‍💻 About the Author
+## 👩‍💻 About the Author
 
 **Angela Faria**
 Frontend Developer | Angular Specialist
@@ -159,7 +159,7 @@ Building scalable and modern frontend architectures.
 
 ---
 
-# ⭐ Support
+## ⭐ Support
 
 If you like this project, give it a star ⭐
 
