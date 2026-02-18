@@ -1,167 +1,130 @@
-<a name="top"></a>
+# [EN-US] Angular (2026) Study Project
 
-<div align="center">
+<p align="left">
 
-# 🚀 Modern Angular 2026
+![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-7.8-B7178C?style=flat)
+![Node](https://img.shields.io/badge/Node-18%2B-339933?style=flat&logo=node.js&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-### Enterprise-Grade Angular 21 Architecture
-
-<img src="https://img.shields.io/badge/Angular-21-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/RxJS-7.8-B7178C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Architecture-Scalable-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Code-Enterprise%20Ready-success?style=for-the-badge" />
-
-<br/>
-
-> A modern Angular 21 project designed with enterprise architecture, scalability, and performance in mind.
-
-</div>
-
----
-
-<!-- ## 🎥 Preview -->
-
-<!--
-Uncomment when you add your demo GIF:
-
-<p align="center">
-  <img src="./docs/preview.gif" alt="Project Preview" width="800"/>
 </p>
--->
 
-<!-- --- -->
-
-## 🌎 Project Vision
-
-This project demonstrates:
-
-- Modern Angular 21 architecture
-- Standalone Components
-- Signals-based state management
-- Scalable folder structure
-- Clean code & best practices
-- Production-ready build setup
+Structured study repository focused on modern Angular architecture and scalable frontend practices.
 
 ---
 
-## 🧠 Why This Project Matters
+## 📌 Overview
 
-This repository demonstrates:
-
-✔ Architectural thinking
-✔ Modern Angular ecosystem mastery
-✔ Code organization discipline
-✔ Enterprise mindset
-✔ Testing awareness
-✔ Long-term maintainability
-
-This is not just a demo: it is a **foundation for real-world enterprise applications**.
+| Area         | Description                              |
+| ------------ | ---------------------------------------- |
+| 🎯 Purpose   | Practice modern Angular architecture     |
+| 🧱 Structure | Feature-based modular organization       |
+| 🧪 Focus     | Scalability, maintainability, clean code |
+| 📚 Type      | Learning / Portfolio project             |
 
 ---
 
-## 🏗 Architecture Philosophy
+## 🧠 What I'm Practicing Here
 
-```
-src/
-├── core/        → Singleton services, guards, interceptors
-├── shared/      → Reusable UI components
-├── features/    → Feature-based modular structure
-├── layout/      → App shell & layout components
-└── app.config.ts
-```
+| Focus Area      | Description                                        |
+| --------------- | -------------------------------------------------- |
+| 🏗 Architecture | Feature-first structure and separation of concerns |
+| 🧩 Components   | Standalone components usage                        |
+| ⚡ State        | Angular Signals experimentation                    |
+| 🔒 Typing       | Strict TypeScript configuration                    |
+| 🧪 Testing      | Unit testing structure awareness                   |
+| 📦 Organization | Clean folder boundaries and modular design         |
 
-✔ Feature-first structure
-✔ Separation of concerns
-✔ Scalable for large teams
+Goal: strengthen architectural thinking and build scalable frontend foundations.
 
 ---
 
-## ⚙️ Tech Stack
+## 📂 Project Structure
 
-| Technology      | Purpose              |
-| --------------- | -------------------- |
-| Angular 21      | Core framework       |
-| TypeScript 5.9  | Strong typing        |
-| RxJS 7.8        | Reactive programming |
-| Zone.js         | Change detection     |
-| Karma + Jasmine | Testing              |
+| Folder      | Responsibility                           |
+| ----------- | ---------------------------------------- |
+| `core/`     | Singleton services, guards, interceptors |
+| `shared/`   | Reusable components and utilities        |
+| `features/` | Business feature modules                 |
+
+---
+
+## 🛠 Tech Stack
+
+| Technology | Version | Role                 |
+| ---------- | ------- | -------------------- |
+| Angular    | 21      | Framework            |
+| TypeScript | 5.9     | Static typing        |
+| RxJS       | 7.8     | Reactive programming |
+| Karma      | —       | Test runner          |
+| Jasmine    | —       | Testing framework    |
 
 ---
 
 ## 🚀 Getting Started
 
-### Install
+### 📦 Installation
 
-npm install
-
-or clean install:
-
-npm ci
-
-### Run
-
-npm start
-
-### Build
-
-npm run build
-
-### Test
-
-npm test
+| Command       | When to Use       | Behavior                                                                    |
+| ------------- | ----------------- | --------------------------------------------------------------------------- |
+| `npm install` | Daily development | Installs dependencies and may update lock file                              |
+| `npm ci`      | Clean setup / CI  | Removes `node_modules` and installs exact versions from `package-lock.json` |
 
 ---
 
-## 📦 Scripts
+### ▶ Run
 
-| Script | Description      |
-| ------ | ---------------- |
-| start  | Dev server       |
-| build  | Production build |
-| watch  | Dev watch mode   |
-| test   | Unit tests       |
-
----
-
-## 📈 Code Quality Strategy
-
-- Conventional Commits
-- Modular architecture
-- Strict TypeScript
-- Separation of layers
-- Future-ready Angular patterns
+| Action           | Command         |
+| ---------------- | --------------- |
+| Start dev server | `npm start`     |
+| Production build | `npm run build` |
+| Run tests        | `npm test`      |
+| Watch build      | `npm run watch` |
 
 ---
 
-## 🇧🇷 Versão em Português
+## 📈 Project Intent
 
-### 🎯 Objetivo
+This repository is intentionally structured to simulate real-world project organization while remaining a controlled learning environment.
 
-Este projeto demonstra domínio avançado de Angular 21, arquitetura escalável e boas práticas modernas.
-
-Ele foi construído com mentalidade enterprise, focando em:
-
-- Organização modular
-- Código limpo
-- Manutenibilidade
-- Escalabilidade
-- Preparação para produção
+It is not a production template, it is a structured architectural lab.
 
 ---
 
-## 👩‍💻 About the Author
+## 👩‍💻 Maintainer
 
-**Angela Faria**
-Frontend Developer | Angular Specialist
-
-Building scalable and modern frontend architectures.
+Angela Fonseca |
+Frontend Developer | Specialist |
+Interested in scalable frontend architecture and long-term maintainability.
 
 ---
 
-## ⭐ Support
+# [PT-BR] Projeto de estudos com Angular (2026)
 
-If you like this project, give it a star ⭐
+## 📌 Sobre o Projeto
+
+| Área         | Descrição                                |
+| ------------ | ---------------------------------------- |
+| 🎯 Objetivo  | Praticar arquitetura moderna com Angular |
+| 🧱 Estrutura | Organização modular baseada em features  |
+| 🧪 Foco      | Escalabilidade e código limpo            |
+| 📚 Tipo      | Projeto de estudo / portfólio            |
+
+---
+
+## 🧠 O que estou praticando
+
+| Área           | Descrição                            |
+| -------------- | ------------------------------------ |
+| 🏗 Arquitetura | Separação clara de responsabilidades |
+| 🧩 Componentes | Uso de standalone components         |
+| ⚡ Estado      | Experimentação com Signals           |
+| 🔒 Tipagem     | TypeScript em modo estrito           |
+| 🧪 Testes      | Estrutura para testabilidade         |
+| 📦 Organização | Estrutura modular e escalável        |
+
+Este repositório funciona como laboratório estruturado de aprendizado.
 
 ---
 
